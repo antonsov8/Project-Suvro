@@ -6,4 +6,12 @@
 -  Research publication : https://scholar.google.com/citations?hl=en&user=Nt9r1_IAAAAJ&view_op=list_works&sortby=pubdate
 -  Main site: https://boris-hanin.github.io
 
-2) 
+2) Mykhaylo Shkolnikov
+- Github:
+- Research Publications:
+- Main Site:  https://mykhaylo.princeton.edu
+
+3) William G Underwood (PhD Student under Matias Cattaneo)
+- Github: wgunderwood.github.io/
+- Research Publication
+- Main Site: 
